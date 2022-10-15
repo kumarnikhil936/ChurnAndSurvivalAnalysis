@@ -53,7 +53,7 @@ This plot is used to see how churning probability changes across the range of pa
 #### Explainability
 Permutation Importance shows feature importance by randomly shuffling feature values and measuring how much it degrades our performance.
 
-![Explainability](Explainability.png)
+![Explainability](Explainability.PNG)
 
 #### SHAP values (SHapley Additive exPlanations)
 It is a game theoretic approach to explain the output of any machine learning model. One can see that why a particual customer's churning probability is less than baseline value and which features are causing them.
